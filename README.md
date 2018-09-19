@@ -1,8 +1,6 @@
 # git-test
-dcd
+dbd
 dev
 ddd
-<<<<<<< HEAD
 ebe
-=======
 eae
